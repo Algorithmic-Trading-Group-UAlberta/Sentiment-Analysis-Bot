@@ -1,0 +1,5 @@
+bearer_token="AAAAAAAAAAAAAAAAAAAAAH25ZgEAAAAAhYF6WxrvNdOb0Exym7bdt6kK%2F%2FE%3DyrN614bUeuyvfEakFpf6CtI2OhdOfpVOToyd9ynsRKq2cXR9Vd",
+consumer_key="UEOgvaDMQ16ialB0EPzIMbRLf",
+consumer_secret="oqNV6ZYG81udZvT23SgQLXAhi91wb3aSCIXNWNKtfMPGb7TkA5",
+access_token="1497773579747815428-851NlGtWySwE7VYBrLlnnZCUlz2ZBt",
+access_token_secret="SzW3Ah021h8U7ToEpehpMLytotqDaIlh7WaIuoSLe3pll"
