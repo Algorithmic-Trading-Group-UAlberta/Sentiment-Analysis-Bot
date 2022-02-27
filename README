@@ -1,7 +1,7 @@
-Day 1, Date = 26-Feb-2022
+#Day 1, Date = 26-Feb-2022
     Implemented a basic tweet fetcher and sentiment analysis on positive and negative sentiment on tweets
-        TO DO:
+        #TO DO:
             need to read documentation for building query (tweepy)
             imporved sentiment analysis algorithm
-        Context:
+        #Context:
             Financial instrument context.
